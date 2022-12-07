@@ -1,0 +1,29 @@
+h1 {
+    margin-bottom: 10px;
+}
+
+h1 a{
+    color: white;
+    text-decoration: none;
+}
+#c-titulo-temas{
+    display: flex;
+    justify-content: space-between;
+}
+
+#c-temas-dark{
+    background: rgb(1, 19, 0);
+    padding: 5px 14px;
+    border: outset;
+    color: white;
+    margin-right: 15px;
+    cursor: pointer;
+}
+#c-temas-padrao{
+    background: rgb(255, 255, 255);
+    padding: 5px 16px;
+    border: outset;
+    color: rgb(0, 0, 0);
+    margin-right: 15px;
+    cursor: pointer;
+}

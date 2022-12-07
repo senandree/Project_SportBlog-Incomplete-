@@ -1,0 +1,50 @@
+.post {
+    border: 1px solid grey;
+    background-color:white;
+    margin-bottom: 20px;
+    height: 300px;
+    box-shadow: 3px 3px 5px;
+    padding: 20px;
+}
+
+.p-img-texto {
+    display: flex;
+    margin-top: 20px;
+}
+
+.p-texto {
+    text-align: justify;
+    width: 60%;
+    margin-left: 20px;
+    overflow: hidden;
+    height: 150px;
+}
+
+.p-texto p {
+    display: flex;
+    margin-bottom: 10px ;
+}
+
+.p-img {
+    width: 100%;
+    overflow: hidden;
+    height: 150px;
+    object-fit: cover;
+}
+.p-img img {
+    margin-left: -150px;
+    margin-top: -460px;
+}
+.p-categ-btn{
+    display: flex;
+    margin-top: 20px;
+}
+.p-btn-continue-lendo{
+    background: rgb(54, 54, 54);
+    padding: 10px 40px;
+    border: none;
+    color: white;
+    position: relative;
+    left: 267px;
+
+}
